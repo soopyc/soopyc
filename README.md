@@ -26,3 +26,5 @@ Here's some of the project me and my friends are working on:
 I support open source software, but I cannot control everything. You may see a few projects that I'm participating but it's not open source.
 
 also i don't use too much punctuations normally, so if you see me on discord im going to type messages like this
+
+and **don't** expect me to reply in chinese lmao i suck at chinese even tho im in a chinese speaking society :dentthink:
