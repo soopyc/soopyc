@@ -6,11 +6,12 @@ Sorry for the bad English, its not my first language lmao
 ## Projects
 Here's some of the project me and my friends are working on:
 
-| Name | Description | Status|Link|
-|:----:|:-----------:|:-----:|----|
-|Cypher|Server management Discord:tm: bot|Active development|Currently closed source ([site](https://cypherbot.github.io/site)\|[support](https://discord.gg/JxUMeHq)\|[docs](https://cypherbot.github.io/docs/))|
-|Waterbot|Dead bot|Hiatus|[source](https://github.com/waterbotdev/waterbot) ([site](https://waterbotdev.github.io)\|[docs](https://waterbotdev.github.io/docs)\|soon:tm:)
-|Blossom (dbot, cogbot)|an attempt to make an all in 1 bot|Hiatus|[source](https://github.com/kcomain/dbot) ([site](https://kcomain.github.io/dbot))
+| Name | Description | Status|Link|Lang|
+|:----:|:-----------:|:-----:|----|----|
+|Cypher|Server management Discord:tm: bot|Active development|Currently closed source ([site](https://cypherbot.github.io/site)\|[support](https://discord.gg/JxUMeHq)\|[docs](https://cypherbot.github.io/docs/))|Python|
+|Waterbot|Dead bot|Hiatus|[source](https://github.com/waterbotdev/waterbot) ([site](https://waterbotdev.github.io)\|[docs](https://waterbotdev.github.io/docs)\|soon:tm:)|python
+|Blossom (dbot, cogbot)|an attempt to make an all in 1 bot|Hiatus|[source](https://github.com/kcomain/dbot) ([site](https://kcomain.github.io/dbot))|python
+|objectia|thing|brainstorming|nothing rn|js|
 
 ## Other stuff
 - 🌱 Learning C#
