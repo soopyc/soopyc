@@ -16,10 +16,10 @@ Here's some of the project me and my friends are working on:
 ## Other stuff
 - 🌱 Learning C#
 - 📫 How to reach me: 
-  - Discord: kcomain#2020
+  - Discord: kcomain#2020 (I'm most active there)
   - Twitter: @kennycheung_  (I'll post updates about things with that account)
   - GitHub: You're here
-  - Email: kcomain[at]protonmail.com
+  - Email: kcomain[at]member.fsf.org
   - Snail-mail: you can't have my address man
 - 😄 Pronouns: he/him, they/them
 - ⚡ Fun fact: there is no fact. everything is a lie.
