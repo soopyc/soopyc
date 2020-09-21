@@ -24,7 +24,7 @@ Here's some of the project me and my friends are working on:
 - 😄 Pronouns: he/him, they/them
 - ⚡ Fun fact: there is no fact. everything is a lie.
 
-:rainbow_flag: :rainbow_flag: :rainbow_flag:
+:rainbow_flag: <insert :bisexual_flag: here> :rainbow_flag:
 
 I support open source software, but I cannot control everything. You may see a few projects that I'm participating but it's not open source.
 
