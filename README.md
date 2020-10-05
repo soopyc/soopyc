@@ -21,6 +21,7 @@ Here's some of the project me and my friends are working on:
   - Twitter: @kennycheung_  (I'll post updates about things with that account)
   - GitHub: You're here
   - Email: kcomain[at]member.fsf.org
+  - PGP Key: 
   - Snail-mail: you can't have my address man
 - 😄 Pronouns: he/him, they/them
 - ⚡ Fun fact: there is no fact. everything is a lie.
@@ -33,4 +34,4 @@ also i don't use too much punctuations normally, so if you see me on discord im 
 
 and **don't** expect me to reply in chinese lmao i suck at chinese even tho im in a chinese speaking society :dentthink:
 
-Profile image: https://picrew.me/image_maker/407027
+Profile image: https://picrew.me/image_maker/7065
