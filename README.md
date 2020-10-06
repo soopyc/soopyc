@@ -21,11 +21,12 @@ Here's some of the project me and my friends are working on:
   - Twitter: @kennycheung_  (I'll post updates about things with that account)
   - GitHub: You're here
   - Email: kcomain[at]member.fsf.org
+    - OpenPGP Public Key: [2B6FAC3679796904](https://raw.githubusercontent.com/kcomain/kcomain/master/id_rsa.pub)
   - Snail-mail: you can't have my address man
 - 😄 Pronouns: he/him, they/them
 - ⚡ Fun fact: there is no fact. everything is a lie.
 
-:rainbow_flag: <insert :bisexual_flag: here> :rainbow_flag:
+:rainbow_flag: \<insert :bisexual_flag: here\> :rainbow_flag:
 
 I support open source software, but I cannot control everything. You may see a few projects that I'm participating but it's not open source.
 
