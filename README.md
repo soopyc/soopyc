@@ -3,6 +3,8 @@ Hello! I'm Kenny. I currently reside in Hong Kong. (haha yes bad place i know) I
 
 Sorry for the bad English, its not my first language lmao
 
+![kcomain's github stats](https://github-readme-stats.vercel.app/api?username=kcomain&count_private=true&show_icons=true&theme=dracula)
+
 ## Projects
 Here's some of the project me and my friends are working on:
 
