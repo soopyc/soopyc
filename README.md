@@ -26,7 +26,7 @@ Here's some of the project me and my friends are working on:
     - OpenPGP Public Key: [2B6FAC3679796904](https://raw.githubusercontent.com/kcomain/kcomain/master/id_rsa.pub)
   - Snail-mail: you can't have my address man
 - 😄 Pronouns: he/him, they/them
-- ⚡ Fun fact: there is no fact. everything is a lie.
+- ⚡ Fun fact: this person is a gura simp
 - Absolute fact: Red Pamdas are the best of the best do not say they're not because they are go check them out (tho axolotls are also very very cute so hmmm bets say both are the very very best no arguments cute animals uuwwuwuwuwuwuwuwuuwuwuwuwuwu)
 
 :rainbow_flag: \<insert :bisexual_flag: here\> :rainbow_flag:
