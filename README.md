@@ -28,7 +28,7 @@ Here's some of the project me and my friends are working on:
 - 😄 Pronouns: he/him, they/them
 - ⚡ Fun fact(s): 
   - this person is a gura simp
-  - this person has fallen down the hololive rabbit hole
+  - this person is deep in the vtuber hole
 - Absolute fact: Red Pamdas are the best of the best do not say they're not because they are go check them out (tho axolotls are also very very cute so hmmm bets say both are the very very best no arguments cute animals uuwwuwuwuwuwuwuwuuwuwuwuwuwu)
 
 :rainbow_flag: \<insert :bisexual_flag: here\> :rainbow_flag:
