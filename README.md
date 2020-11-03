@@ -29,7 +29,7 @@ Here's some of the project me and my friends are working on:
   - this person is a gura shrimp
 - Personal stuff
   - Location: Hong Kong
-  - Favorite things
+  - Favorite things+people
     - gura
     - red pandas
     - axolotls
