@@ -4,6 +4,7 @@ hi im kenny
 Sorry for the bad English, its not my first language lmao
 
 ![kcomain's github stats](https://github-readme-stats.vercel.app/api?username=kcomain&count_private=true&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcomain&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 Here's some of the project me and my friends are working on:
