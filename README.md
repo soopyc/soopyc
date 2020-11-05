@@ -3,9 +3,9 @@ hi im kenny
 
 Sorry for the bad English, its not my first language lmao
 
-![kcomain's github stats](https://github-readme-stats.vercel.app/api?username=kcomain&count_private=true&show_icons=true&bg_color=343,40e09f,00d4ff&title_color=000&text_color=000)
+![kcomain's github stats](https://github-readme-stats.vercel.app/api?username=kcomain&count_private=true&show_icons=true&bg_color=343,40e09f,00d4ff&title_color=0378b3&text_color=000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcomain&layout=compact&bg_color=343,a740e0,009dff&title_color=000&text_color=000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcomain&layout=compact&langs_count=10&bg_color=bdf2fc&title_color=1999d4&text_color=000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 Here's some of the project me and my friends are working on:
