@@ -33,7 +33,7 @@ Here's some of the project me and my friends are working on:
   - Email (i don't check them often): 
     - kcomain@member.fsf.org
     - kcomain@riseup.net
-    - OpenPGP Public Key: ~~[2B6FAC3679796904](https://raw.githubusercontent.com/kcomain/kcomain/master/id_rsa.pub)~~ outdated
+    - OpenPGP Public Key: [CEC4980A4D52DF79](https://raw.github.com/kcomain/kcomain/master/id_ed25519.pub)
   - Snail-mail: a5257dd15edae61938c4db8096dce75e0171c549eaeeef9fc07ea91870e12eb89bef4e4d048404307babcb46d6c38dd663eb1300a51448d4844dfc354106cd0f
 - 😄 Pronouns: he/him, they/them
 - ⚡ Fun fact(s)
