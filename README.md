@@ -20,7 +20,7 @@ Here's some of the project me and my friends are working on:
 | Name | Description | Status|Link|Lang|
 |:----:|:-----------:|:-----:|----|----|
 |Cypher|Server management Discord:tm: bot|Active development|Currently closed source ([site](https://cypherbot.github.io/site)\|[support](https://discord.gg/JxUMeHq)\|[docs](https://cypherbot.github.io/docs/))|Python|
-|Cypher backend|backend nodejs server|in development|[source](https://github.com/tempus-dev/cypher-sitejs)|javascript|
+|Cypher front+backend|cypher nodejs idk what it does server (its more of a learning experience for me)|in development|[source](https://github.com/tempus-dev/cypher-sitejs)|javascript|
 |Blossom (dbot, cogbot)|an attempt to make an all in 1 bot|Hiatus|[source](https://github.com/kcomain/dbot) ([site](https://kcomain.github.io/dbot))|python|
 |objectia|thing|brainstorming|nothing rn|js|
 
