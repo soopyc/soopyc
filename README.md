@@ -22,36 +22,49 @@ Here's some of the project me and my friends are working on:
 |Cypher|Server management Discord:tm: bot|Active development|Currently closed source ([site](https://cypherbot.github.io/site)\|[support](https://discord.gg/JxUMeHq)\|[docs](https://cypherbot.github.io/docs/))|Python|
 |Cypher front+backend|cypher nodejs idk what it does server (its more of a learning experience for me)|in development|[source](https://github.com/tempus-dev/cypher-sitejs)|javascript|
 |Blossom (dbot, cogbot)|an attempt to make an all in 1 bot|Hiatus|[source](https://github.com/kcomain/dbot) ([site](https://kcomain.github.io/dbot))|python|
-|objectia|thing|brainstorming|nothing rn|js|
+<!--|objectia|thing|brainstorming|nothing rn|js|-->
 
 ## Other stuff
 - 🌱 Learning C# and JS
-- 📫 How to reach me: 
+- 📫 How to reach me
   - Discord: kcomain#2020  [chat]
   - Twitter: @kennycheung_  [updates]
   - GitHub: You're here
-  - Email: kcomain@member.fsf.org  (i don't check emails often)
-    - OpenPGP Public Key: [2B6FAC3679796904](https://raw.githubusercontent.com/kcomain/kcomain/master/id_rsa.pub)
-  - Snail-mail: you can't have my address man
+  - Email (i don't check them often): 
+    - kcomain@member.fsf.org
+    - kcomain@riseup.net
+    - OpenPGP Public Key: ~~[2B6FAC3679796904](https://raw.githubusercontent.com/kcomain/kcomain/master/id_rsa.pub)~~ outdated
+  - Snail-mail: a5257dd15edae61938c4db8096dce75e0171c549eaeeef9fc07ea91870e12eb89bef4e4d048404307babcb46d6c38dd663eb1300a51448d4844dfc354106cd0f
 - 😄 Pronouns: he/him, they/them
-- ⚡ Fun fact(s): 
-  - this person is a gura shrimp
+- ⚡ Fun fact(s)
+  - gura shrimp exists and you are viewing one's profile
+  - facts? what are facts there are no facts apart from vaccines does not cause autism and 
 - Personal stuff
   - Location: Hong Kong
-  - Favorite things+people
+  - Favorite things+people+whatever
     - gura
     - red pandas
     - axolotls
-    - writing code
+    - doing random stuff on jetbrain IDEs
   - not favorite things
     - school (ok if youre my teacher and you see this don't bash me)
-    - 
+    - spooky spooky scary stuff
+    - absolute silence
+- Software stuff
+  - OSes
+    - [Arch Linux (btw :^))](https://www.archlinux.org)
+    - MacOS
+    - [Trisquel](https://trisquel.info/)
+  - DEs/WMs
+    - [KDE plasma](https://kde.org/plasma-desktop/)
+    - [bspwm](https://github.com/baskerville/bspwm)
+    - [i3](https://i3wm.org/)
+    - [lxqt](https://lxqt-project.org/)
 
-I don't really have anything interesting for people to look at. 
-I'm currently putting my effort into some repos pinned on my profile and some privated ones.
+i don't really have anything exceptionally interesting for people to look at but you can check my pinned repos ig
 
 :rainbow_flag: :rainbow_flag:
 
-I support open source software, but I cannot control everything. You may see a few projects that I'm participating but it's not open source.
+Although I support and encourage the use of open source software, there are a few projects you see on the list which are not open sourced at the moment. I'm attempting to get them open sourced as soon as possible, though.
 
-Profile image: https://picrew.me/image_maker/7065/
+Profile image: taken by myself somewhere near my home <!--https://picrew.me/image_maker/7065/-->
