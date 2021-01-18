@@ -31,6 +31,7 @@ Here's some of the project me and my friends are working on:
   - Twitter: @kennycheung_  [updates]
   - GitHub: You're here
   - Email (i don't check them often): 
+    - me@kcomain.dev
     - kcomain@member.fsf.org
     - kcomain@riseup.net
     - OpenPGP Public Key: [CEC4980A4D52DF79](https://raw.github.com/kcomain/kcomain/master/id_ed25519.pub)
