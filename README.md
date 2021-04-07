@@ -1,7 +1,8 @@
-### o/
-hi im kenny
+o/ hi im kenny
 
-Sorry for the bad English, its not my first language lmao
+sorry if my english sounds wrong as it's not my first language /o\
+
+details: https://kcomain.dev/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcomain&count_private=true&show_icons=true&bg_color=a2adfa&title_color=0378b3&text_color=000" />
@@ -18,3 +19,5 @@ Sorry for the bad English, its not my first language lmao
 </a> -->
 
 :rainbow_flag: :rainbow_flag:
+
+he/(she)/they 
