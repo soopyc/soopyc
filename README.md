@@ -20,4 +20,4 @@ details: https://kcomain.dev/
 
 :rainbow_flag: :rainbow_flag:
 
-he/(she)/they 
+she/they
