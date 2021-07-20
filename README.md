@@ -20,6 +20,6 @@ details: https://kcomain.dev/
 </a>
 -->
 
-:rainbow_flag: :rainbow_flag:
+:rainbow_flag: 
 
 she/they
