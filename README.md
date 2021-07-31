@@ -8,7 +8,7 @@ details: https://kcomain.dev/
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcomain&count_private=true&show_icons=true&bg_color=a2adfa&title_color=0378b3&text_color=000" />
 </a>
 -->
-<a href="https">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kcomain&layout=compact" />
 </a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
