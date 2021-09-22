@@ -1,4 +1,4 @@
-o/ hi im sophie
+o/ hi
 
 sorry if my english sounds wrong as it's not my first language /o\
 
