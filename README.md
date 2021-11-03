@@ -1,6 +1,8 @@
+**Real: domain name changed to soopy.moe, the old kcomain.dev domain is unused.**
+
 o/ hi
 
-sorry if my english sounds wrong as it's not my first language /o\
+sorry if my english sounds wrong as it's not my first language
 
 details: https://kcomain.dev/
 <!--
