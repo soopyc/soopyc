@@ -1,10 +1,15 @@
 **Real: domain name changed to soopy.moe, the old kcomain.dev domain is unused.**
 
-o/ hi
+**REALER: I do most of my dev stuff on [my own git server](https://patchy.soopy.moe) now**
 
-sorry if my english sounds wrong as it's not my first language
+good morny
 
-details: https://soopy.moe/
+why is u here
+
+detailed details detailed on my detailed website: https://soopy.moe/
+
+want less images and js and only want more details? check out this deatailer detailed detail page on my detailed domain detailing all my stuff: https://im-still.soopy.moe/doing/this/please/dont/visit/just/yet/it-will-be-very-detailed.jpg
+
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=soopyc&count_private=true&show_icons=true&bg_color=a2adfa&title_color=0378b3&text_color=000" />
