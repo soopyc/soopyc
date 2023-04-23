@@ -15,6 +15,9 @@ in case my server explodes
 - email: me@soopy.moe ([gpg](https://github.com/soopyc/soopyc/raw/master/id_ed25519.pub), [keybase](https://keybase.io/kcomain), [wkd](https://openpgpkey.soopy.moe/.well-known/openpgpkey/soopy.moe/hu/s8y7oh5xrdpu9psba3i5ntk64ohouhga?l=me
 ), [keyoxide](https://keyoxide.org/hkp/me%40soopy.moe))
 
+### Profile credits
+avatar provided by [@el_mocchan on picrew](https://picrew.me/en/image_maker/1497656)
+
 > It seems that, over the last few years, non-binary and trans folks have reached stage three on the Williams Scale: 
 > ‘then they fight you’. Hopefully, it won't take long to reach stage four: ‘then you win’.
 
