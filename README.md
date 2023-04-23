@@ -18,6 +18,8 @@ in case my server explodes
 ### Profile credits
 avatar provided by [@el_mocchan on picrew](https://picrew.me/en/image_maker/1497656)
 
+<hr />
+
 > It seems that, over the last few years, non-binary and trans folks have reached stage three on the Williams Scale: 
 > ‘then they fight you’. Hopefully, it won't take long to reach stage four: ‘then you win’.
 
