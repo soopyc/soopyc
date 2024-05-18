@@ -24,7 +24,7 @@ in case my server explodes though,
   - Minisign key: `RWTwHbCTKdHg/muMS/0Uxlz27Jw7C1ccDxnDx+GIpM+1IeeWzIu6aAi9`
 
 ### Profile credits
-avatar provided by [@el_mocchan on picrew](https://picrew.me/en/image_maker/1497656)
+avatar provided by [✦絢瀬 on picrew](https://picrew.me/en/image_maker/1904634)
 
 <hr />
 
