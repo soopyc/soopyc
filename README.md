@@ -1,14 +1,5 @@
-### basic contact methods
-A more complete contact list is available [on my website](https://soopy.moe/about)
+waiting for something to happen?
 
-in case my server explodes though,
-
-- github: you are here
-- discord: [undefined#undefined](https://discord.com/users/397029587965575170)
-- matrix: [@sophie:nue.soopy.moe](https://matrix.to/#/@sophie:nue.soopy.moe), [@sophie:nue-staging.soopy.moe](https://matrix.to/#/@sophie:nue-staging.soopy.moe)
-- fediverse: 
-  - [@mizuki@a.soopy.moe](https://a.soopy.moe/mizuki)
-- email: me@soopy.moe
   ([keybase](https://keybase.io/kcomain),
   [keyoxide](https://keyoxide.org/aspe%3Akeyoxide.org%3A5VATYUSIE6DC5CPWEYTRSUSUXI),
   [keyoxide (gpg)](https://keyoxide.org/hkp/me%40soopy.moe))
@@ -16,10 +7,8 @@ in case my server explodes though,
     - `age1yubikey1qgmfcf0vddslyza7djdekjjk3t3u29d474c5xscmcdye8x3spvhlxxj23xz`
     - `age17t2t5j2pnt45saq5fy2e7gn2w6q99h5myret58tqckwc283vvccs3qlqkl`
   - Minisign key: `RWTwHbCTKdHg/muMS/0Uxlz27Jw7C1ccDxnDx+GIpM+1IeeWzIu6aAi9`
-  - ssh keys: <https://github.com/soopyc.keys>
 
-### Profile credits
-avatar provided by [✦絢瀬 on picrew](https://picrew.me/en/image_maker/1904634)
+avatar by [✦絢瀬 on picrew](https://picrew.me/en/image_maker/1904634)
 
 <hr />
 
